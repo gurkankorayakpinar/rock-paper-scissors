@@ -1,10 +1,8 @@
 # Taş, Kâğıt, Makas
 
-- Bu proje, bilgisayara karşı oynanan bir "Taş, Kâğıt, Makas" oyunudur.
+- Bu proje, Vanilla JS ile geliştirilen bir "Taş, Kâğıt, Makas" oyunudur.
 
 ***
-
-- Kazanç yapısı, "taş > makas > kâğıt" şeklindedir.
 
 - 50 puana ulaşan oyuncu, oyunu kazanır.
 
