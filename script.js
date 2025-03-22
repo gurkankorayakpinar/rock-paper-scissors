@@ -11,7 +11,7 @@ const finalResultElement = document.getElementById('finalResult');
 
 let playerScore = 0;
 let computerScore = 0;
-const maxScore = 50;  // Kazanma puanı
+const maxScore = 50;
 
 // Seçimlerin Türkçe karşılıkları
 const choiceTranslations = {

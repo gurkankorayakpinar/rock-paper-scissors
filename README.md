@@ -1,6 +1,6 @@
 # Taş, Kâğıt, Makas
 
-- Bu proje, Vanilla JS ile geliştirilen bir "Taş, Kâğıt, Makas" oyunudur.
+- Bu proje, standart bir "Taş, Kâğıt, Makas" oyunudur.
 
 ***
 
